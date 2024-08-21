@@ -1,0 +1,5 @@
+<svg id="Icon_Multiple_Shape" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <path id="Path" d="M0,0H40V40H0Z" fill="none"/>
+  <path id="Path-2" data-name="Path" d="M31.2,33.6H12a2.4,2.4,0,0,1-2.4-2.4v-.8H26.4a4.005,4.005,0,0,0,4-4V9.6h.8A2.4,2.4,0,0,1,33.6,12V31.2A2.4,2.4,0,0,1,31.2,33.6ZM21.6,24H2.4A2.4,2.4,0,0,1,0,21.6V2.4A2.4,2.4,0,0,1,2.4,0H21.6A2.4,2.4,0,0,1,24,2.4V21.6A2.4,2.4,0,0,1,21.6,24Z" transform="translate(3.2 3.2)" fill="#00b2ae"/>
+  <path id="Path-3" data-name="Path" d="M20.8,0h.8A2.4,2.4,0,0,1,24,2.4V21.6A2.4,2.4,0,0,1,21.6,24H2.4A2.4,2.4,0,0,1,0,21.6v-.8H16.8a4,4,0,0,0,4-4Z" transform="translate(8 8)" fill="#00b2ae" opacity="0.3"/>
+</svg>

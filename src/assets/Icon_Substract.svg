@@ -1,0 +1,5 @@
+<svg id="Icon_Substract" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <path id="Path" d="M0,0H40V40H0Z" fill="none"/>
+  <path id="Path-2" data-name="Path" d="M22.4,12.8V20A2.4,2.4,0,0,1,20,22.4H2.4A2.4,2.4,0,0,1,0,20V2.4A2.4,2.4,0,0,1,2.4,0H9.6V8.8a4,4,0,0,0,4,4Z" transform="translate(3.2 16)" fill="#00b2ae" opacity="0.3"/>
+  <path id="Path-3" data-name="Path" d="M2.4,0H20a2.4,2.4,0,0,1,2.4,2.4V20A2.4,2.4,0,0,1,20,22.4H2.4A2.4,2.4,0,0,1,0,20V2.4A2.4,2.4,0,0,1,2.4,0Z" transform="translate(14.4 4.8)" fill="#00b2ae"/>
+</svg>
